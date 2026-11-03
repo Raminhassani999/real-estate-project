@@ -176,4 +176,4 @@ All four datasets saved successfully!
 - The data cannot establish that earthquake activity **causes** differences in housing prices, and the housing and earthquake datasets cover different time periods.
 - `price_per_sqm` is calculated from `price` and `net_sqm`; it is not an independent measurement.
 
-**My contribution ends with the prepared data and the reproducible ETL code.** The remaining statistical modeling, tests, charts, and interpretation are separate parts of the group project.
+
